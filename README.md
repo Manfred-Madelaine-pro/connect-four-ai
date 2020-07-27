@@ -1,6 +1,7 @@
 
 # Connect Four AI
-This project is an attempt in implementing a simple AI that can play Connect Four
+This project is an attempt in implementing a simple AI that can play Connect Four.
+This AI can attack or defend itself.
 
 # Example
 
