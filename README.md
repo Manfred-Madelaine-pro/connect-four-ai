@@ -5,7 +5,7 @@ This project is an attempt in implementing a simple Artificial Intelligence (AI)
 This AI can attack or defend itself.
 
 ## Description :pencil:
-Te AI should be able win against : 
+The AI should be able win against : 
 - :man: a Human 
 - :hatching_chick: an AI playing randomly
 - :hatched_chick: an AI capable to attack
